@@ -56,8 +56,8 @@ time: 2021-12-31 to 2026-05-28
 
 | Post Count | Comment Count |
 | ---------- | ------------- |
-| 21142      |               |
-| Clean      |               |
+| 21142      | 1141471       |
+| Clean      | Clean         |
 
 ## Bundesliga
 
