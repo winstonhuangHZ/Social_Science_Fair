@@ -1,0 +1,50 @@
+
+=================== PIPELINE RUN AT 2026-05-30 01:57:30 ===================
+[2026-05-30 01:57:30] 🚀 START processing file: Bundesliga_cleaned_posts_filtered.jsonl | Rows: 9105
+
+=================== PIPELINE RUN AT 2026-05-30 02:02:00 ===================
+[2026-05-30 02:02:00] 🚀 START processing file: Bundesliga_cleaned_posts_filtered.jsonl | Rows: 9105
+[2026-05-30 02:20:22] ✅ FINISHED file: Bundesliga_cleaned_posts_filtered.jsonl | Elapsed Time: 18m 21s
+--------------------------------------------------------------------------------
+[2026-05-30 02:20:22] 🚀 START processing file: fcbayern_cleaned_posts_filtered.jsonl | Rows: 8196
+[2026-05-30 02:34:25] ✅ FINISHED file: fcbayern_cleaned_posts_filtered.jsonl | Elapsed Time: 14m 3s
+--------------------------------------------------------------------------------
+[2026-05-30 02:34:25] 🚀 START processing file: PremierLeague_cleaned_posts_filtered.jsonl | Rows: 9295
+[2026-05-30 02:36:04] ✅ FINISHED file: PremierLeague_cleaned_posts_filtered.jsonl | Elapsed Time: 1m 38s
+--------------------------------------------------------------------------------
+[2026-05-30 02:36:04] 🚀 START processing file: LiverpoolFC_cleaned_posts_filtered.jsonl | Rows: 19915
+
+=================== PIPELINE RUN AT 2026-05-30 02:39:32 ===================
+[2026-05-30 02:39:32] 🚀 START processing file: LiverpoolFC_cleaned_posts_filtered.jsonl | Rows: 19915
+
+=================== PIPELINE RUN AT 2026-05-30 02:40:37 ===================
+[2026-05-30 02:40:37] 🚀 START processing file: LaLiga_cleaned_posts_filtered.jsonl | Rows: 3779
+
+=================== PIPELINE RUN AT 2026-05-30 02:56:14 ===================
+[2026-05-30 02:56:14] 🚀 START processing file: LaLiga_cleaned_posts_filtered.jsonl | Rows: 3779
+[2026-05-30 03:14:59] ✅ FINISHED file: LaLiga_cleaned_posts_filtered.jsonl | Elapsed Time: 18m 44s
+--------------------------------------------------------------------------------
+[2026-05-30 03:14:59] 🚀 START processing file: Ligue1_cleaned_posts_filtered.jsonl | Rows: 2311
+[2026-05-30 03:21:49] ✅ FINISHED file: Ligue1_cleaned_posts_filtered.jsonl | Elapsed Time: 6m 49s
+--------------------------------------------------------------------------------
+[2026-05-30 03:21:49] 🚀 START processing file: Bundesliga_cleaned_posts_filtered.jsonl | Rows: 9105
+[2026-05-30 03:47:25] ✅ FINISHED file: Bundesliga_cleaned_posts_filtered.jsonl | Elapsed Time: 25m 35s
+--------------------------------------------------------------------------------
+[2026-05-30 03:47:25] 🚀 START processing file: fcbayern_cleaned_posts_filtered.jsonl | Rows: 8196
+[2026-05-30 04:21:26] ✅ FINISHED file: fcbayern_cleaned_posts_filtered.jsonl | Elapsed Time: 34m 1s
+--------------------------------------------------------------------------------
+[2026-05-30 04:21:26] 🚀 START processing file: PremierLeague_cleaned_posts_filtered.jsonl | Rows: 9295
+[2026-05-30 04:51:49] ✅ FINISHED file: PremierLeague_cleaned_posts_filtered.jsonl | Elapsed Time: 30m 22s
+--------------------------------------------------------------------------------
+[2026-05-30 04:51:49] 🚀 START processing file: LiverpoolFC_cleaned_posts_filtered.jsonl | Rows: 19915
+[2026-05-30 05:49:39] ✅ FINISHED file: LiverpoolFC_cleaned_posts_filtered.jsonl | Elapsed Time: 57m 50s
+--------------------------------------------------------------------------------
+[2026-05-30 05:49:40] 🚀 START processing file: ManchesterUnited_cleaned_posts_filtered.jsonl | Rows: 36503
+[2026-05-30 07:45:19] ✅ FINISHED file: ManchesterUnited_cleaned_posts_filtered.jsonl | Elapsed Time: 115m 38s
+--------------------------------------------------------------------------------
+[2026-05-30 07:45:19] 🚀 START processing file: realmadrid_cleaned_posts_filtered.jsonl | Rows: 53972
+[2026-05-30 10:57:19] ✅ FINISHED file: realmadrid_cleaned_posts_filtered.jsonl | Elapsed Time: 191m 59s
+--------------------------------------------------------------------------------
+[2026-05-30 10:57:20] 🚀 START processing file: Barca_cleaned_posts_filtered.jsonl | Rows: 40969
+[2026-05-30 13:32:58] ✅ FINISHED file: Barca_cleaned_posts_filtered.jsonl | Elapsed Time: 155m 38s
+--------------------------------------------------------------------------------
