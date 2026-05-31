@@ -1,0 +1,482 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{champ2020exploration}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f57b23e4d599fb1e3004a5ce615688dd}{%
+           family={Champ},
+           familyi={C\bibinitperiod},
+           given={F.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8886b1b8534b51df41d336a146754ae1}{%
+           family={Nesti},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e3deab235eff2b58a3351e2f921dc6d}{%
+           family={Ronkainen},
+           familyi={R\bibinitperiod},
+           given={N.\bibnamedelimi J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=304a9c033d5b2c6a7b4266366b7f46cc}{%
+           family={Tod},
+           familyi={T\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39fec190a9e9c3813a4c048ea8a2631b}{%
+           family={Littlewood},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aabb0d79f2a2ef715eced9e8c56baf50}
+      \strng{fullhash}{e98af8e755446e5c72fd1eb906b77987}
+      \strng{fullhashraw}{e98af8e755446e5c72fd1eb906b77987}
+      \strng{bibnamehash}{aabb0d79f2a2ef715eced9e8c56baf50}
+      \strng{authorbibnamehash}{aabb0d79f2a2ef715eced9e8c56baf50}
+      \strng{authornamehash}{aabb0d79f2a2ef715eced9e8c56baf50}
+      \strng{authorfullhash}{e98af8e755446e5c72fd1eb906b77987}
+      \strng{authorfullhashraw}{e98af8e755446e5c72fd1eb906b77987}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Sport Psychology}
+      \field{number}{2}
+      \field{title}{An exploration of the experiences of elite youth footballers: The impact of organizational culture}
+      \field{volume}{32}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{146\bibrangedash 167}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/10413200.2018.1514429
+      \endverb
+    \endentry
+    \entry{connell2005masculinities}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=41009fd93788516289f93ca57a73b1e3}{%
+           family={Connell},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{41009fd93788516289f93ca57a73b1e3}
+      \strng{fullhash}{41009fd93788516289f93ca57a73b1e3}
+      \strng{fullhashraw}{41009fd93788516289f93ca57a73b1e3}
+      \strng{bibnamehash}{41009fd93788516289f93ca57a73b1e3}
+      \strng{authorbibnamehash}{41009fd93788516289f93ca57a73b1e3}
+      \strng{authornamehash}{41009fd93788516289f93ca57a73b1e3}
+      \strng{authorfullhash}{41009fd93788516289f93ca57a73b1e3}
+      \strng{authorfullhashraw}{41009fd93788516289f93ca57a73b1e3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Masculinities}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{fang2025value}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d2cc163f933481ba73de80823371b0d}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2d2cc163f933481ba73de80823371b0d}
+      \strng{fullhash}{2d2cc163f933481ba73de80823371b0d}
+      \strng{fullhashraw}{2d2cc163f933481ba73de80823371b0d}
+      \strng{bibnamehash}{2d2cc163f933481ba73de80823371b0d}
+      \strng{authorbibnamehash}{2d2cc163f933481ba73de80823371b0d}
+      \strng{authornamehash}{2d2cc163f933481ba73de80823371b0d}
+      \strng{authorfullhash}{2d2cc163f933481ba73de80823371b0d}
+      \strng{authorfullhashraw}{2d2cc163f933481ba73de80823371b0d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science and Technology of Engineering, Chemistry and Environmental Protection}
+      \field{number}{4}
+      \field{title}{The value of players in the top five football leagues for the 24-25 season based on multiple factors}
+      \field{volume}{1}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.61173/p15km722
+      \endverb
+    \endentry
+    \entry{franceschi2024determinants}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4f231bf5b3c3b0da8dcec6706c8ebc5f}{%
+           family={Franceschi},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba2d969caefecdc2ebef06e86b4614e}{%
+           family={Brocard},
+           familyi={B\bibinitperiod},
+           given={J.-F.},
+           giveni={J\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e310986120cddabe1464428f67f064b}{%
+           family={Follert},
+           familyi={F\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=290f348a5bfbeafa025b51cbc630a774}{%
+           family={Gouguet},
+           familyi={G\bibinitperiod},
+           given={J.-J.},
+           giveni={J\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aa13f82787a483936feeed88a68370f9}
+      \strng{fullhash}{8fd9d37843778adbd41c5dc16c6b5e37}
+      \strng{fullhashraw}{8fd9d37843778adbd41c5dc16c6b5e37}
+      \strng{bibnamehash}{aa13f82787a483936feeed88a68370f9}
+      \strng{authorbibnamehash}{aa13f82787a483936feeed88a68370f9}
+      \strng{authornamehash}{aa13f82787a483936feeed88a68370f9}
+      \strng{authorfullhash}{8fd9d37843778adbd41c5dc16c6b5e37}
+      \strng{authorfullhashraw}{8fd9d37843778adbd41c5dc16c6b5e37}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{3}
+      \field{title}{Determinants of football players' valuation: A systematic review}
+      \field{volume}{38}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{577\bibrangedash 600}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1111/joes.12552
+      \endverb
+    \endentry
+    \entry{ging2019alphas}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb2cd7b48cdbb20bca0b838a37025545}{%
+           family={Ging},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eb2cd7b48cdbb20bca0b838a37025545}
+      \strng{fullhash}{eb2cd7b48cdbb20bca0b838a37025545}
+      \strng{fullhashraw}{eb2cd7b48cdbb20bca0b838a37025545}
+      \strng{bibnamehash}{eb2cd7b48cdbb20bca0b838a37025545}
+      \strng{authorbibnamehash}{eb2cd7b48cdbb20bca0b838a37025545}
+      \strng{authornamehash}{eb2cd7b48cdbb20bca0b838a37025545}
+      \strng{authorfullhash}{eb2cd7b48cdbb20bca0b838a37025545}
+      \strng{authorfullhashraw}{eb2cd7b48cdbb20bca0b838a37025545}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Men and Masculinities}
+      \field{number}{4}
+      \field{title}{Alphas, betas, and incels: Theorizing the masculinities of the manosphere}
+      \field{volume}{22}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{638\bibrangedash 657}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1177/1097184X17706401
+      \endverb
+    \endentry
+    \entry{pollard2005long}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=2102a13d81278a903744d90d3d88e254}{%
+           family={Pollard},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=99398800021165b247640894a6c22921}{%
+           family={Pollard},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \strng{fullhash}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \strng{fullhashraw}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \strng{bibnamehash}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \strng{authorbibnamehash}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \strng{authornamehash}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \strng{authorfullhash}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \strng{authorfullhashraw}{fe16a42d0733b17eeebcb4c01fa9ed90}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Sciences}
+      \field{number}{4}
+      \field{title}{Long-term trends in home advantage in professional team sports in North America and England (1876-2003)}
+      \field{volume}{23}
+      \field{year}{2005}
+      \true{nocite}
+      \field{pages}{337\bibrangedash 350}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/02640410400021559
+      \endverb
+    \endentry
+    \entry{vaughan2022social}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=eae45dab65f3d6abc29c5f03f8a5b5fd}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54142c8bd8e06f1e795968d9eee4a364}{%
+           family={Mallett},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fe67fd6ca339be056231c7ee1023927}{%
+           family={Potrac},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bcd7fa98aa06a88606638bf1fc3c82b}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4451f1fe79cc9fb48ea434f2440d9ef0}{%
+           family={O'Sullivan},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51e7949a0859a1c68890ef1ac91a5769}{%
+           family={Davids},
+           familyi={D\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2487255bb08972aebc48c45b2e8f010}
+      \strng{fullhash}{7e5bca07b6d01e1c5ef07636178bf0bd}
+      \strng{fullhashraw}{7e5bca07b6d01e1c5ef07636178bf0bd}
+      \strng{bibnamehash}{b2487255bb08972aebc48c45b2e8f010}
+      \strng{authorbibnamehash}{b2487255bb08972aebc48c45b2e8f010}
+      \strng{authornamehash}{b2487255bb08972aebc48c45b2e8f010}
+      \strng{authorfullhash}{7e5bca07b6d01e1c5ef07636178bf0bd}
+      \strng{authorfullhashraw}{7e5bca07b6d01e1c5ef07636178bf0bd}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Sports and Active Living}
+      \field{title}{Social and cultural constraints on football player development in Stockholm: Influencing skill, learning, and wellbeing}
+      \field{volume}{4}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{Article 832111}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3389/fspor.2022.832111
+      \endverb
+    \endentry
+    \entry{vincent2008champions}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6e4acf34616cdfd4590cd4bbded3410}{%
+           family={Vincent},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16e13dedee92559c35f0c62090211bf0}{%
+           family={Crossman},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc95c5206470db5f2f0672ff525446a1}
+      \strng{fullhash}{dc95c5206470db5f2f0672ff525446a1}
+      \strng{fullhashraw}{dc95c5206470db5f2f0672ff525446a1}
+      \strng{bibnamehash}{dc95c5206470db5f2f0672ff525446a1}
+      \strng{authorbibnamehash}{dc95c5206470db5f2f0672ff525446a1}
+      \strng{authornamehash}{dc95c5206470db5f2f0672ff525446a1}
+      \strng{authorfullhash}{dc95c5206470db5f2f0672ff525446a1}
+      \strng{authorfullhashraw}{dc95c5206470db5f2f0672ff525446a1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Sport Communication}
+      \field{number}{1}
+      \field{title}{Champions, a celebrity crossover, and a capitulator: The construction of gender in broadsheet newspapers' narratives about selected competitors during 'The Championships'}
+      \field{volume}{1}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{78\bibrangedash 102}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1123/ijsc.1.1.78
+      \endverb
+    \endentry
+    \entry{wellard2006able}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bf7c36e76e8e54eecc5b6c721a8247f}{%
+           family={Wellard},
+           familyi={W\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \strng{fullhash}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \strng{fullhashraw}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \strng{bibnamehash}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \strng{authorbibnamehash}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \strng{authornamehash}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \strng{authorfullhash}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \strng{authorfullhashraw}{3bf7c36e76e8e54eecc5b6c721a8247f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sport, Education and Society}
+      \field{number}{2}
+      \field{title}{Able bodies and sport participation: Social constructions of physical ability for gendered and sexually identified bodies}
+      \field{volume}{11}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{105\bibrangedash 119}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/13573320600640645
+      \endverb
+    \endentry
+    \entry{white2022duty}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=11fb5d658bf68b2a9a2ee9ce72bc4894}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=951b3cf542a380b515bf66410d25ebc1}{%
+           family={Parry},
+           familyi={P\bibinitperiod},
+           given={K.\bibnamedelimi D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a3200b9cedfdd32c75866f44c04a222}{%
+           family={Humphries},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63fba72f3c49de57fa067b85aa9da21d}{%
+           family={Phelan},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34dcc20b298236246365e129e27838ff}{%
+           family={Batten},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=176b625cc0068b3abecfd8947f764f6f}{%
+           family={Magrath},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{857195ab44a94d54e348be6bae06f6be}
+      \strng{fullhash}{f625273b6c12bc8266b8a5f337602ad6}
+      \strng{fullhashraw}{f625273b6c12bc8266b8a5f337602ad6}
+      \strng{bibnamehash}{857195ab44a94d54e348be6bae06f6be}
+      \strng{authorbibnamehash}{857195ab44a94d54e348be6bae06f6be}
+      \strng{authornamehash}{857195ab44a94d54e348be6bae06f6be}
+      \strng{authorfullhash}{f625273b6c12bc8266b8a5f337602ad6}
+      \strng{authorfullhashraw}{f625273b6c12bc8266b8a5f337602ad6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communication \& Sport}
+      \field{number}{3}
+      \field{title}{Duty of Karius: Media framing of concussion following the 2018 UEFA Champions League final}
+      \field{volume}{10}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{541\bibrangedash 563}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1177/2167479520948048
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

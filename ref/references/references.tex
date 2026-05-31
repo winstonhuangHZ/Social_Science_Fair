@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+% 将 style 修改为 biblatex 自带的 authoryear 样式
+\usepackage[backend=biber, style=authoryear]{biblatex} 
+
+% 引入您的 bib 文件
+\addbibresource{references.bib}
+
+\begin{document}
+
+% 列出 bib 文件中的所有文献
+\nocite{*}
+
+% 打印所有参考文献列表
+\printbibliography[title={References}]
+
+\end{document}

@@ -1,0 +1,108 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+% ===== 1. 必须引入这个宏包，否则 \resizebox 报错 =====
+\usepackage{graphicx} 
+
+\title{Experiment Details, Parameters, and Results}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Experiment Details}
+This experiment involves cleaning, filtering, and performing sentiment detection on Reddit post data from 9 different subreddits.
+\begin{itemize}
+    \item \textbf{Input Data Status:} Clean
+    \item \textbf{Total Posts Scanned:} 362,063 posts
+    \item \textbf{Total Posts Filtered:} 184,045 posts (50.8\% of the total)
+    \item \textbf{Total Time Elapsed for Filtering:} 22 minutes 46 seconds (average of 151.82 seconds per file)
+\end{itemize}
+
+\section{Parameters}
+
+\subsection{Data Source}
+Historical Reddit data was fetched from established data collections in computational social science (\url{https://arctic-shift.photon-reddit.com/download-tool}). Compliance with academic research ethics is ensured, and user privacy is protected.
+
+\subsection{Data Source Parameters}
+The time ranges, post counts, and comment counts configured for each data source are presented in Table \ref{tab:parameters}:
+
+\begin{table}[htbp]
+\centering
+\caption{Data Source Basic Parameters}
+\label{tab:parameters}
+\begin{tabular}{llrr}
+\toprule
+\textbf{Subreddit} & \textbf{Time Range} & \textbf{Post Count} & \textbf{Comment Count} \\
+\midrule
+FC Barca & 2021-12-31 to 2026-05-28 & 72,299 & 3,550,342 \\
+FC Bayern & 2019-12-31 to 2026-05-28 & 17,829 & 1,220,342 \\
+RealMadrid & -- & 95,641 & 3,888,310 \\
+ManchesterUnited & 2021-12-31 to 2026-05-28 & 73,498 & 2,199,287 \\
+Liverpool FC & 2024-12-31 to 2026-05-28 & 36,601 & 3,175,480 \\
+LaLiga & 2020.12.31 to 2026-05-28 & 9,836 & 49,308 \\
+PremierLeague & 2024-12-31 to 2026-05-28 & 21,142 & 1,123,524 \\
+Bundesliga & 2020-12-31 to 2026-05-28 & 28,060 & 651,392 \\
+Ligue 1 France & 2019-12-31 to 2026-5-28 & 7,157 & 35,708 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\newpage
+\subsection{LLM Sentiment Detection Environment}
+The environment and hardware configurations for the LLM sentiment detection pipeline are specified below:
+\begin{itemize}
+    \item \textbf{Model Name:} Qwen/Qwen2.5-14B-Instruct-GPTQ-Int4 (14 Billion Params)
+    \item \textbf{Framework:} vLLM Boosted
+    \item \textbf{GPU:} 1x NVIDIA RTX 4090
+    \item \textbf{GPU Memory:} 24GB
+    \item \textbf{GPU Memory Utilization:} 92\%
+    \item \textbf{Max Model Length:} 2048 tokens
+    \item \textbf{CUDA Version:} 12.1
+    \item \textbf{CPU:} 16x vCPU Intel(R) Xeon(R) Platinum 8358P CPU @ 2.60GHz
+    \item \textbf{System RAM:} 90GB
+    \item \textbf{Concurrent Concurrency:} 128
+\end{itemize}
+
+\section{Results}
+
+\subsection{Filtering Summary}
+The statistical results of the filtering process for the 9 post files are shown in Table \ref{tab:filtering_results}:
+
+\begin{table}[htbp]
+\centering
+\caption{Data Filtering Statistical Results}
+\label{tab:filtering_results}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrr}
+\toprule
+\textbf{Input File} & \textbf{Progress \& Speed} & \textbf{Total Posts} & \textbf{Filtered Posts} & \textbf{Ratio} & \textbf{With Player Name} & \textbf{Evaluation Word Only} \\
+% ===== 2. 上面这行中的 Progress & Speed 已经修正为 Progress \& Speed =====
+\midrule
+Barca\_cleaned\_posts.jsonl & 72299 lines [06:14, 193.21 lines/s] & 72,299 & 40,969 & 56.7\% & 36,826 & 4,143 \\
+Bundesliga\_cleaned\_posts.jsonl & 28060 lines [01:21, 345.80 lines/s] & 28,060 & 9,105 & 32.4\% & 8,061 & 1,044 \\
+LaLiga\_cleaned\_posts.jsonl & 9836 lines [00:28, 351.09 lines/s] & 9,836 & 3,779 & 38.4\% & 3,269 & 510 \\
+Ligue1\_cleaned\_posts.jsonl & 7157 lines [00:47, 150.60 lines/s] & 7,157 & 2,311 & 32.3\% & 2,149 & 162 \\
+LiverpoolFC\_cleaned\_posts.jsonl & 36601 lines [01:55, 317.40 lines/s] & 36,601 & 19,915 & 54.4\% & 17,740 & 2,175 \\
+ManchesterUnited\_cleaned\_posts.jsonl & 73498 lines [03:45, 325.22 lines/s] & 73,498 & 36,503 & 49.7\% & 32,469 & 4,034 \\
+PremierLeague\_cleaned\_posts.jsonl & 21142 lines [01:11, 294.06 lines/s] & 21,142 & 9,295 & 44.0\% & 7,825 & 1,470 \\
+fcbayern\_cleaned\_posts.jsonl & 17829 lines [01:04, 277.29 lines/s] & 17,829 & 8,196 & 46.0\% & 7,068 & 1,128 \\
+realmadrid\_cleaned\_posts.jsonl & 95641 lines [05:57, 267.36 lines/s] & 95,641 & 53,972 & 56.4\% & 48,613 & 5,359 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}
+
+\subsection{LLM Sentiment Detection Execution Results}
+The overall execution results for the LLM sentiment detection pipeline are summarized below:
+\begin{itemize}
+    \item \textbf{Total Rows Processed:} 184,045 Rows
+    \item \textbf{Total Time:} 38,196 Seconds (10.61 Hours)
+    \item \textbf{Queries Per Second (QPS):} 4.82
+\end{itemize}
+
+\end{document}
