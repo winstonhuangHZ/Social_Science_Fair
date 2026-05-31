@@ -1,3 +1,10 @@
+## Data Source:
+
+From established data collections in computational social science, historical Reddit data was fetched, listed as below
+(https://arctic-shift.photon-reddit.com/download-tool)
+
+Compliance with academic research ethics is ensured, and user privacy is protected.
+
 ## FC Barca
 
 time: 2021-12-31 to 2026-05-28 (Because there're too many posts)
@@ -77,7 +84,7 @@ time: 2021-12-31 to 2026-05-28
 | 7157       | 35708         |
 | Clean      | Clean         |
 
-# Filtering:
+# Filtering (By Players' Name):
 
 找到 9 个 posts 文件:
 
@@ -133,3 +140,34 @@ time: 2021-12-31 to 2026-05-28
    总计过滤: 184045 篇 (50.8% 如果total>0 else 0)
    输出目录: /Volumes/Winston_Elements/ssf_data/reddit/analysis/filtered
 ============================================================
+
+
+
+## LLM Sentiment Detection:
+
+Model Name: Qwen/Qwen2.5-14B-Instruct-GPTQ-Int4 
+(14Billion Params)
+
+GPU: 1x NVIDIA RTX 4090 ()
+
+CPU: 16x vCPU Intel(R) Xeon(R) Platinum 8358P CPU @ 2.60GHz
+
+GPU Memory: 24GB
+
+vLLM Boosted
+
+GPU Memory Utilization: 92%
+
+Max Model Length: 2048 tokens
+
+CUDA: 12.1
+
+System RAM: 90GB
+
+Concurrent Concurrency: 128
+
+Total Time: 38196 Seconds (10.61 Hours)
+
+Total Rows: 184045 Rows
+
+Queries Per Second: 4.82
