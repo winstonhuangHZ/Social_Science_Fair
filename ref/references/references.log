@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.19)  31 MAY 2026 21:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.19)  2 JUN 2026 15:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -326,7 +326,9 @@ Overfull \hbox (0.25075pt too wide) in paragraph at lines 15--15
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./references.aux)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+[2] (./references.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -336,18 +338,18 @@ Package logreq Info: Writing requests to 'references.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8791 strings out of 473190
- 173975 string characters out of 5715800
- 995240 words of memory out of 5000000
- 32025 multiletter control sequences out of 15000+600000
+ 8816 strings out of 473190
+ 175006 string characters out of 5715800
+ 999468 words of memory out of 5000000
+ 32050 multiletter control sequences out of 15000+600000
  560257 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,5n,81p,782b,1304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on references.pdf (1 page, 73192 bytes).
+Output written on references.pdf (2 pages, 77957 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

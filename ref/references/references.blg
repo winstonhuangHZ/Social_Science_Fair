@@ -1,15 +1,15 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'references.blg'
-[101] biber-darwin:340> INFO - === Sun May 31, 2026, 21:41:36
-[123] Biber.pm:420> INFO - Reading 'references.bcf'
-[226] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[106] biber-darwin:340> INFO - === Tue Jun  2, 2026, 15:26:54
+[129] Biber.pm:420> INFO - Reading 'references.bcf'
+[227] Biber.pm:991> INFO - Using all citekeys in bib section 0
 [241] Biber.pm:4463> INFO - Processing section 0
-[255] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[256] bibtex.pm:1713> INFO - LaTeX decoding ...
-[271] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[385] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[385] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[385] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[385] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[397] bbl.pm:676> INFO - Writing 'references.bbl' with encoding 'UTF-8'
-[407] bbl.pm:779> INFO - Output to references.bbl
+[253] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[255] bibtex.pm:1713> INFO - LaTeX decoding ...
+[277] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[441] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[441] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[441] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[441] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[460] bbl.pm:676> INFO - Writing 'references.bbl' with encoding 'UTF-8'
+[476] bbl.pm:779> INFO - Output to references.bbl

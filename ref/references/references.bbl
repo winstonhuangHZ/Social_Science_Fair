@@ -109,6 +109,47 @@
       \field{year}{2005}
       \true{nocite}
     \endentry
+    \entry{connell2005hegemonic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=41009fd93788516289f93ca57a73b1e3}{%
+           family={Connell},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca545f5e380bfea1ee009e8f2af22441}{%
+           family={Messerschmidt},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{78aa242656381e5eec1c580daadc7394}
+      \strng{fullhash}{78aa242656381e5eec1c580daadc7394}
+      \strng{fullhashraw}{78aa242656381e5eec1c580daadc7394}
+      \strng{bibnamehash}{78aa242656381e5eec1c580daadc7394}
+      \strng{authorbibnamehash}{78aa242656381e5eec1c580daadc7394}
+      \strng{authornamehash}{78aa242656381e5eec1c580daadc7394}
+      \strng{authorfullhash}{78aa242656381e5eec1c580daadc7394}
+      \strng{authorfullhashraw}{78aa242656381e5eec1c580daadc7394}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gender \& Society}
+      \field{number}{6}
+      \field{title}{Hegemonic masculinity: Rethinking the concept}
+      \field{volume}{19}
+      \field{year}{2005}
+      \true{nocite}
+      \field{pages}{829\bibrangedash 859}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1177/0891243205278639
+      \endverb
+    \endentry
     \entry{fang2025value}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2d2cc163f933481ba73de80823371b0d}{%
@@ -142,14 +183,143 @@
       \verb 10.61173/p15km722
       \endverb
     \endentry
+    \entry{fouillot2025skateboarding}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=e424062fde31fdbbf705cab525b43619}{%
+           family={Fouillot},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b6d66dcf808a4673b7de6d8d482f74b}{%
+           family={Saulière},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f39c5b7e5ea086c64e74497a6a6283f7}{%
+           family={Antero},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dcef6b4afee1234a6dc555b11262a1e}{%
+           family={Sedeaud},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=191ae70e4626caca9a08ad589c8891a3}{%
+           family={Toussaint},
+           familyi={T\bibinitperiod},
+           given={J.-F.},
+           giveni={J\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc926a697f9ae26d0b3bf9b466d2a836}
+      \strng{fullhash}{e7f0d4fc75508e35e930835e369ea43e}
+      \strng{fullhashraw}{e7f0d4fc75508e35e930835e369ea43e}
+      \strng{bibnamehash}{fc926a697f9ae26d0b3bf9b466d2a836}
+      \strng{authorbibnamehash}{fc926a697f9ae26d0b3bf9b466d2a836}
+      \strng{authornamehash}{fc926a697f9ae26d0b3bf9b466d2a836}
+      \strng{authorfullhash}{e7f0d4fc75508e35e930835e369ea43e}
+      \strng{authorfullhashraw}{e7f0d4fc75508e35e930835e369ea43e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Physiology}
+      \field{title}{Skateboarding's Olympic journey: do the performance profiles of top athletes remain consistent?}
+      \field{volume}{16}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{Article 1548442}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3389/fphys.2025.1548442
+      \endverb
+    \endentry
+    \entry{franceschi2024training}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=1,uniquepart=given,hash=e334ca17ec3652214ff93ce1b32758a5}{%
+           family={Franceschi},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=95c37e6434450485a186a4aeb6f91c90}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bf4540dfe440faf15ad536add37c2bb}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c82504c4ac5d120bf579b13449f3279}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ede64da1e19d3f6ebd860e6cbd8dcc06}{%
+           family={Bampouras},
+           familyi={B\bibinitperiod},
+           given={T.\bibnamedelimi M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e804907131a5dafaccc8cd9361ec880}{%
+           family={Ferrari\bibnamedelima Bravo},
+           familyi={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bf4540dfe440faf15ad536add37c2bb}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f1e48cb0296c569f614426efe2676330}
+      \strng{fullhash}{67b1f09f1bd5c682c159cf0a4dbfd7fe}
+      \strng{fullhashraw}{67b1f09f1bd5c682c159cf0a4dbfd7fe}
+      \strng{bibnamehash}{f1e48cb0296c569f614426efe2676330}
+      \strng{authorbibnamehash}{f1e48cb0296c569f614426efe2676330}
+      \strng{authornamehash}{f1e48cb0296c569f614426efe2676330}
+      \strng{authorfullhash}{67b1f09f1bd5c682c159cf0a4dbfd7fe}
+      \strng{authorfullhashraw}{67b1f09f1bd5c682c159cf0a4dbfd7fe}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Sciences}
+      \field{number}{15}
+      \field{title}{Training loads and microcycle periodisation in Italian Serie A youth soccer players}
+      \field{volume}{42}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{1391\bibrangedash 1400}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/02640414.2024.2391234
+      \endverb
+    \endentry
     \entry{franceschi2024determinants}{article}{}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=4f231bf5b3c3b0da8dcec6706c8ebc5f}{%
+        {{un=1,uniquepart=given,hash=4f231bf5b3c3b0da8dcec6706c8ebc5f}{%
            family={Franceschi},
            familyi={F\bibinitperiod},
            given={M.},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=4ba2d969caefecdc2ebef06e86b4614e}{%
            family={Brocard},
            familyi={B\bibinitperiod},
@@ -228,6 +398,128 @@
       \range{pages}{20}
       \verb{doi}
       \verb 10.1177/1097184X17706401
+      \endverb
+    \endentry
+    \entry{nemeth2023scoping}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f6dd056b5dffe0214b1582744ac22b4}{%
+           family={Németh},
+           familyi={N\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f6dd056b5dffe0214b1582744ac22b4}
+      \strng{fullhash}{2f6dd056b5dffe0214b1582744ac22b4}
+      \strng{fullhashraw}{2f6dd056b5dffe0214b1582744ac22b4}
+      \strng{bibnamehash}{2f6dd056b5dffe0214b1582744ac22b4}
+      \strng{authorbibnamehash}{2f6dd056b5dffe0214b1582744ac22b4}
+      \strng{authornamehash}{2f6dd056b5dffe0214b1582744ac22b4}
+      \strng{authorfullhash}{2f6dd056b5dffe0214b1582744ac22b4}
+      \strng{authorfullhashraw}{2f6dd056b5dffe0214b1582744ac22b4}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Social Science}
+      \field{number}{1}
+      \field{title}{A scoping review on the use of natural language processing in research on political polarization: trends and research prospects}
+      \field{volume}{6}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{289\bibrangedash 313}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s42001-022-00196-2
+      \endverb
+    \endentry
+    \entry{park2025test}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=5de1ee8be02450d136e79b70ae9c7303}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a38fe2282e0ae708270c02346a36d08f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \strng{fullhash}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \strng{fullhashraw}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \strng{bibnamehash}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \strng{authorbibnamehash}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \strng{authornamehash}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \strng{authorfullhash}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \strng{authorfullhashraw}{6dd62bc9dfa8cd68719424c8c3442dca}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS ONE}
+      \field{number}{3}
+      \field{title}{A test of the status anxiety hypothesis of social inequalities in health}
+      \field{volume}{20}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{Article e0321271}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0321271
+      \endverb
+    \endentry
+    \entry{park2017factors}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=a6fc1ab99a5e4c05383d2a6cf2ccaed7}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={S.-A.},
+           giveni={S\bibinithyphendelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d25c575682bddfb0da403ab864cef789}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=1d50c5d908fe9ead398d6448f784be74}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{6479bbcf48266654ac4b5e377febaa65}
+      \strng{fullhash}{6479bbcf48266654ac4b5e377febaa65}
+      \strng{fullhashraw}{6479bbcf48266654ac4b5e377febaa65}
+      \strng{bibnamehash}{6479bbcf48266654ac4b5e377febaa65}
+      \strng{authorbibnamehash}{6479bbcf48266654ac4b5e377febaa65}
+      \strng{authornamehash}{6479bbcf48266654ac4b5e377febaa65}
+      \strng{authorfullhash}{6479bbcf48266654ac4b5e377febaa65}
+      \strng{authorfullhashraw}{6479bbcf48266654ac4b5e377febaa65}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Nursing Research}
+      \field{title}{Factors influencing the quality of life of patients with advanced cancer}
+      \field{volume}{36}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{121\bibrangedash 127}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.apnr.2017.06.009
       \endverb
     \endentry
     \entry{pollard2005long}{article}{}{}
@@ -408,7 +700,7 @@
       \field{pages}{105\bibrangedash 119}
       \range{pages}{15}
       \verb{doi}
-      \verb 10.1080/13573320600640645
+      \verb 10.1080/13573320600641413
       \endverb
     \endentry
     \entry{white2022duty}{article}{}{}
